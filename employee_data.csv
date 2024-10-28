@@ -1,0 +1,5 @@
+employee_id,name,age,department,salary,status
+1,John Doe,29,HR,50000,Active
+2,Jane Smith,35,IT,75000,Active
+3,,40,Finance,60000,Active
+4,Mark R,25,Sales,,Inactive

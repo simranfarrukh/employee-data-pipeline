@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+#*.db   # Ignore SQLite database files if you don't want to push them
